@@ -1,6 +1,6 @@
 {
   "name": "@wecansync/react-share-social",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UI component to share contents in Social media. Share contents in facebook, twitter, pinterest, whatsapp etc. - Forked and maintained by WeCanSync",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
